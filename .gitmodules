@@ -1,0 +1,3 @@
+[submodule "nord-theme"]
+	path = nord-theme
+	url = https://github.com/nordtheme/tmux.git
